@@ -25,12 +25,10 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
   <img src="assets/images/screenshot-mobile.png"  alt="mobile" width="150">
 </div>
 
-![](./screenshot.jpg)
-
 ### Links
 
-- Solution URL: [GitHub repo](https://your-solution-url.com)
-- Live Site URL: [GitHub page](https://your-live-site-url.com)
+- Solution URL: [GitHub repo](https://github.com/prmditya/FM04-recipe-page)
+- Live Site URL: [GitHub page](prmditya.github.io/FM04-recipe-page/)
 
 ## My process
 
