@@ -46,5 +46,5 @@ Back to basic
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/prmditya)
+- Frontend Mentor - [@prmditya](https://www.frontendmentor.io/profile/prmditya)
 - GitHub - [prmditya](https://www.github.com/prmditya)
